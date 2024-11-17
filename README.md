@@ -5,18 +5,18 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 
 ## Module
 <span style="color:blue">**User**</span><br>
-<span>&#9745;</span> User Account Management<br>
-<span>&#9745;</span> Notification mail<br>
-<span>&#9745;</span> Password hashing<br>
-<span>&#9745;</span> Nominees  <br>
-<span>&#9745;</span> View stocks<br>
-<span>&#9745;</span> Market Data<br>
-<span>&#9745;</span> View current share market status<br>
-<span>&#9745;</span> Perform fundamental and technical analysis using TradingView CDN<br>
-<span>&#9745;</span> Buy stock<br>
-<span>&#9745;</span> Sell stock<br>
-<span>&#9745;</span> Transaction History  <br>
-<span>&#9745;</span> Portfolio tracking<br>
+<span>&#9733;</span> User Account Management<br>
+<span>&#9733;</span> Notification mail<br>
+<span>&#9733;</span> Password hashing<br>
+<span>&#9733;</span> Nominees  <br>
+<span>&#9733;</span> View stocks<br>
+<span>&#9733;</span> Market Data<br>
+<span>&#9733;</span> View current share market status<br>
+<span>&#9733;</span> Perform fundamental and technical analysis using TradingView CDN<br>
+<span>&#9733;</span> Buy stock<br>
+<span>&#9733;</span> Sell stock<br>
+<span>&#9733;</span> Transaction History  <br>
+<span>&#9733;</span> Portfolio tracking<br>
 
 
 ## Technologies Used
