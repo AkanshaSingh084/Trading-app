@@ -33,12 +33,6 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 3. Database:
    - MySQL
 
-## Services Used
-
-- **[TradingView](https://www.tradingview.com/)**: A platform for technical analysis and charting.
-- **[DataTables](https://datatables.net/)**: A JavaScript library for enhancing HTML tables.
-- **[Gmail SMTP](https://mailmeteor.com/blog/gmail-smtp-settings)**: A service for sending emails using Gmail.
-- **[Alpha Vantage](https://www.alphavantage.co/documentation/)**: A provider of real-time and historical financial market data.
 
 ## Trading App Features 
 
@@ -70,12 +64,5 @@ This project is a trading application built using Java Spring Boot, HTML, CSS, J
 <a href="#"> Trading App User Manual</a><br>
 <a href="#"> Trading App PPT</a>
 
-
-### Installation
-
-1. **Clone the repository**:
-   ```sh
-   git clone https://github.com/kishor-23/tradingapp-spring.git
-   cd tradingapp-spring
 
 
